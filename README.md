@@ -4,7 +4,8 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minbrotherkim&layout=compact)  
 <br />
-![Minbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbrotherkim&include_all_commits=true&show_icons=true&bg_color=00000000)
+![minbrotherkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbrotherkim&include_all_commits=true&show_icons=true&bg_color=00000000)  
+![Minbrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minbrother&include_all_commits=true&show_icons=true&bg_color=00000000)  
 
 <!--
 **minbrotherkim/minbrotherkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
