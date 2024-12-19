@@ -1,4 +1,10 @@
-## Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Minbro's+GitHub&animation=fadeIn&fontSize=50&fontAlignY=40&fontColor=ffffff&color=6994CDEE)  
+--
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminbrotherkim&count_bg=%236994CDEE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)  
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minbrotherkim&layout=compact)  
+<br />
+![Minbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbrotherkim&include_all_commits=true&show_icons=true&bg_color=00000000)
 
 <!--
 **minbrotherkim/minbrotherkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
